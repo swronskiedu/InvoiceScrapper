@@ -1,3 +1,5 @@
+To run the project succesfuly, you need to connect to UiPath Orchestrator - then set up a Queue and change its name and folder it is in in the Config.xlsx file (or just set it up how it says there).
+
 ### Documentation is included in the Documentation folder ###
 
 
